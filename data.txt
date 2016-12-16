@@ -1,0 +1,1518 @@
+
+
+<!DOCTYPE html
+<html lang="en" itemscope itemtype="http://schema.org/WebPage"
+<head
+<meta charset="utf-8"
+<script
+var is_mobile = /symbian|midp|uc(web|browser)|MSIE (5.0|6.0|7.0|8.0)|tablet/i.test(navigator.userAgent);	if(is_mobile && window.location.hostname != "www1.cricbuzz.com") window.location.hostname = "m.cricbuzz.com";</script
+<style
+body{background:#E3E6E3; font-family: helvetica,"Segoe UI",Arial,sans-serif;color:#222;font-size:14px; line-height: 1.5; margin:0;}	body, .cb-comm-pg, .cb-hm-mid {min-height:1000px}	.container{width:980px;margin:0 auto;}	.page{max-width: 980px;margin: 0 auto;position: relative;}	.cb-col-8 {width:8%;}	.cb-col-10 {width:10%;}	.cb-col-14 {width:14%;}	.cb-col-16 {width:16%;}	.cb-col-20 {width:20%;}	.cb-col-25 {width:25%;}	.cb-col-27 {width:27%;}	.cb-col-33 {width:33%;}	.cb-col-40 {width:40%;}	.cb-col-46 {width:46%;}	.cb-col-47 {width:47%;}	.cb-col-50 {width:50%;}	.cb-col-60 {width:60%;}	.cb-col-66 {width:66%;}	.cb-col-67 {width:67%;}	.cb-col-73 {width:73%;}	.cb-col-75 {width:75%;}	.cb-col-84 {width:84%;}	.cb-col-80 {width:80%;}	.cb-col-90{width:90%;}	.cb-col-100 {width:100%;}	.cb-col {display: inline-block;box-sizing: border-box;float: left; min-height: 1px;}	h1 {font-size: 36px;line-height: 42px; margin:0;}	h2 {font-size: 24px; margin:0; line-height: 30px;}	h3 {font-size: 18px;line-height: 24px; margin:0; }	h4 {font-size: 16px; margin:0; }	h5 {font-size: 14px; margin: 0;}	.cb-font-18 {font-size:18px;}	img{border: 0;}	a {text-decoration: none; color:#222;}	a, a:hover, a:active, a:focus {outline: medium none;}	.text-center {text-align: center;}	.cb-nws-lft-col{padding:15px 20px;}	.cb-nws-dtl-lft-col {padding: 10px 30px 0 30px;border-right: 1px solid #ecebeb ;}	.cb-nws-lst-rt{padding-left: 10px;}	.cb-srs-lst-itm {padding: 10px 0;}	.cb-lst-itm-sm{padding:10px 0 5px;}	.cb-scrd-lft-col{padding:15px 10px;} .cb-col-rt{padding: 10px;}	.text-white{color: #fff;}	.cb-scrd-hdr-rw, .cb-nav-pill-1.active {background: #4a4a4a ;color: #fff;}	.cb-nav{position:relative; height:48px;background: #60ab59;}	.cb-hm-mnu-itm{padding: 16px 8px 11px; color:#fff; display:inline-block;}	.cb-hm-text{padding:10px 20px;}	.cb-hm-rght{padding: 15px;}	.cb-subnav .cb-sub-navigation {display: none; position: absolute;}	.cb-mat-mnu{background:#4a4a4a; width:980px; font-size: 0;}	.cb-mat-mnu-itm{font-size:12px; color:#fff; padding:10px; cursor: pointer; display:inline-block; max-width: 140px;}	.cb-mat-mnu-ttl{background: #333; padding: 10px 20px;}	.cb-mat-mnu-wrp{margin-bottom: 10px;}	.cb-ovr-flo{overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}	.cb-mat-mnu-all{text-align: center; float: right; width:75px;}	.cb-nav-main{border-bottom:1px solid #e3e6e3;padding:0 0 5px 20px;}	.cb-nav-bar{padding-top:10px;clear:both;}	.cb-lst-itm, .cb-bg-white{background: #fff;}	.cb-nav-tab.active, .cb-nav-tab-hm.active{ font-weight: bold; color: #0F844D;}	.cb-nav-tab.active {border-bottom: 3px solid #0F844D; line-height: 24px; }	.cb-nav-tab-hm.active{ border-bottom:2px solid #0F844D; line-height: 22px;}	.cb-nav-tab{margin-right:20px;padding-bottom:6px;}	.cb-nav-tab-hm{margin-right:15px;padding-bottom:6px;}	.cb-nav-hdr{padding-top:15px}	.cb-nav-subhdr{padding:5px 0 10px 0;}	.cb-lv-scr-mtch-hdr{line-height: 21px;font-size: 14px;}	.disp-none{display:none;}	.disp-blck{display:block;}	.cb-font-24{font-size: 24px;}	.line-ht30{line-height: 30px;}	.line-ht24{line-height: 24px;}	.cb-hm-scg-blk{background: #fff; margin-bottom: 10px; height:90px;}	#scagTabContent .show{display: block; visibility: visible;}	#scagTabContent .hide{display: none; visibility: hidden;}	[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak { display: none !important;}	.cb-hm-lft{margin-bottom:10px;padding:0 15px;}	.cb-hm-lft-hdr{margin:0; padding:15px 15px 8px;} .cb-hm-mid {border-left: 10px solid #e3e6e3 ;border-right: 10px solid #e3e6e3 ;padding: 0 15px;} .cb-mtch-blk {border-right: 1px solid #ecebeb ;line-height: 1.4;margin: 15px 0;padding: 0 20px;}	.crd-cntxt{font-size: 12px; color:#0F844D; padding-bottom: 10px;}	.big-crd-main{border-bottom: 2px solid #ecebeb; border-top: 1px solid #ecebeb;padding:15px 0 5px; margin-bottom: 1px;clear: both;} .big-crd-reltd-itm {margin: 0 0 10px; width:100%; display: inline-block;}	.cb-nws-time{font-size:12px; padding-bottom: 5px;}	.cb-nws-hdln-ancr{padding-bottom: 5px;}	.cb-hmscg-bwl-txt, .cb-hmscg-bat-txt{font-weight:bold; padding-bottom:4px; height:18px;}	.cb-hmscg-bwl-txt{color:#666;}	.sml-crd-main{padding: 10px 0 5px; width: 100%;}	.big-crd-hdln{margin: 10px 0;}	.big-crd-rltd-txt {font-weight: bold; margin:10px 0; color:#1866DB;} .cb-nws-intr {color: #666;padding-bottom: 5px;} .cb-lv-scrs-well {background: #f5f5f5 ;display: inline-block;margin: 10px 0;padding: 10px 5px;} .cb-schdl-hdr {margin: 0;padding: 15px 0 10px 10px;} .cb-lv-gray-strip {padding: 10px 0 5px 10px;} .cb-lst-itm-lg {padding: 20px 0;} .cb-left-pad {padding: 20px 10px 0;}	.cb-schdl-nvtb {border: medium none;margin: 0 0 10px 0;padding: 10px;}	.cb-nav-pill-1.active {background: #4a4a4a ;color: #fff;}	.cb-nav-pill-1 {background: #ecebeb ;border-radius: 20px;color: #222;cursor: pointer;margin-right: 15px;padding: 5px 20px;} .cb-mtch-lst {padding: 15px 0;}	.cb-nws-min-cntr{padding: 10px; background: #f5f5f5; color:#333; margin:10px 0 15px;}	.sml-crd-subtxt{margin:0 10px 10px;}	/*-------------------------Live Pages -----------------------*/	.cb-scrcrd-status{padding:0 0 10px 10px;}	.cb-scrd-hdr-rw{padding:8px 10px;}	.cb-lv-gray-strip, .cb-bg-gray{background: #ecebeb;}	.cb-min-hdr-rw, .cb-scrd-sub-hdr{padding: 4px 10px; font-size: 12px; color: #666;}	.cb-scrd-itms{padding: 4px 10px; font-size: 13px;}	.cb-text-link {color: #1866DB;}	.text-bold{font-weight: bold;}	.text-normal{font-weight: normal;}	.cb-mat-fct-itm{padding: 5px 0;}	.cb-min-bat-rw{padding-bottom: 5px;}	.cb-nws-sub-txt, .cb-nws-sub-txt, .cb-font-12{font-size:12px;}	.cb-font-16{font-size:16px;}	.cb-font-20{font-size:20px;}	.cb-min-inf{padding-top:10px; margin-left: -10px; display: inline-block;}	.cb-min-itm-rw{padding:5px 10px 0;}	.text-right{text-align:right;}	.cb-key-st-lst{padding: 10px 0 0 5px; }	.cb-min-prw-time{padding:20px 0 0;}	.cb-toss-sts{padding: 10px 0 30px;}	.cb-min-rcnt{padding: 7px 10px; margin: 0 -10px 0;}	.cb-key-lst-wrp{border: 1px solid #ecebeb; padding-bottom: 15px; margin-right: -10px;}	.cb-min-tm{font-size: 18px; font-weight: bold;}	.cb-min-stts{padding: 20px 0;}	.cb-mom-itm{padding: 0 0 10px;}	.cb-lv-gray-strip {padding: 10px 10px 5px;}	.cb-ovr-num{padding-top:2px;}	.cb-min-pad{padding-left: 5px;}	/*Upcoming Series*/	.cb-mnth{margin-top: 10px; padding: 0 10px;}	.cb-sch-lst-itm {padding:10px 0; margin-left: 20px;border-bottom: 1px solid #ecebeb;}	/*Matches By Day*/	.cb-mtchs-dy{padding:20px 20px 20px 10px ;}	.cb-mtchs-dy-tm,.cb-mtchs-dy-vnu{padding:20px 20px 20px 0px;}	/*Schedule Teams*/	.cb-lv-upcom-strip{padding: 5px 10px;background: #ecebeb;}	/*Archives*/	.cb-srs-cat{padding:10px; color:#60AB59; }	.pad-left{padding-left:30px;}	.cb-arcv-yr{font-size:20px; padding: 0 0 5px 10px;font-weight: bold}	.cb-yr-tmline{padding: 2px 15px 15px 0;}	.cb-sch-tms-widgt{padding: 5px 10px; margin:5px 2px 2px 2px; background: #f5f5f5; border-radius: 0; border:0; display: inline-block;}	/*Photos*/	.cb-thmb-dark {background: #333333; box-shadow:none; border-radius:0; border:none; padding:0;color:#CCC;}	.cb-pht-main {padding:20px 15px;margin: 0 -10px;}	.cb-pht-block{padding:9px;float:left;height:280px;box-sizing: border-box;}	.img-responsive{height:auto; max-width:100%;}	.center-block{margin-right: auto;margin-left: auto;}	.cb-schdl{padding:0 10px;line-height: 1.5;}	.cb-caret-up, .cb-caret-down{display: inline-block; width: 0; height: 0; margin-left: 4px; margin-bottom: 1px; border-right: 4px solid transparent; border-left: 4px solid transparent;}	.cb-caret-up{border-bottom: 4px solid;}	.cb-caret-down{border-top: 4px solid;}	.cb-hm-rt-itm{margin: 0 0 15px; padding: 10px;}	.cb-hmscg-tm-nm{display:inline-block; width: 60px;}	.pull-right,.cb-all-mtch-tab{float:right;}	.cb-skin-ads-close{display: none;}	.cb-nws-sub-txt{padding-top:10px;}	.nws-dtl-hdln{margin-top:10px;}	.cb-min-lv{min-height:270px}	.cb-min-comp{min-height:150px;}	.cb-ttl-vts{margin-top:20px;}	.cb-poll-radio{width: 5%;margin:4px 10px 0 0;}	.cb-mini-tim{padding-bottom:20px;}	.cb-com-ln{margin: 0 0 10px; line-height: 24px;}	.cb-comm-static{min-height:31px; margin: 0 -10px 10px;}	.cb-com-ovr-sum-ad{min-height: 31px;}	.cb-comm-static-anchr{margin:5px 10px; display: block;}	.ad-unit-rendered{margin-bottom: 10px;}	.cb-mm-wrp { max-height: 0px; -webkit-transition: max-height 0.35s ease; transition: max-height 0.35s ease; overflow: hidden; }	.cb-mm-wrp.down { max-height: 1000px; transition: max-height 0.75s ease; -webkit-transition: max-height 0.75s ease; overflow: hidden;}	.cb-srs-hstry-dtl {padding:10px 15px;margin-top:20px;}	.cb-qck-lnk{margin-bottom: 10px; padding:10px 15px;}	.cb-qck-hdr{padding-right: 15px; border-right: 1px solid #ecebeb ;}	.cb-qck-ancr{margin-left: 15px;}	.cb-lst-vid-rw{padding-bottom: 0; height: 64px; border: 1px solid #ecebeb; margin-right: -10px;}	.cb-auth-img{border-radius: 100%;}	.cb-expt-athr{vertical-align: top; padding: 5px 0 0 0; display: inline-block; font-size: 16px}	.inline-block{display: inline-block;}	.cb-exprt-athr-hdr{text-align: right;font-size: 42px;font-family: bodani; color: #fff;padding-right: 15px;line-height:44px;text-transform:uppercase;}	.cb-exprt-athr-hdr-tag{text-align: right;font-size: 24px;font-family: bodani; color: #fff;padding-right: 15px;font-style:italic;}	.cb-athr-wgt-wrp{border:1px solid #ecebeb; padding:15px; margin-bottom:20px;background:#f5f5f5;}	.cb-exprt-athr-hdr-img{background: url("http://i.cricketcb.com/statics/site/images/harsha-banner.jpg") no-repeat scroll; height:80px;}</style
+<script
+function getCookie(c_name){	var i,x,y,ARRcookies=document.cookie.split(";");	for (i=0;i<ARRcookies.length;i++){	x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));	y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);	x=x.replace(/^\s+|\s+$/g,"");	if (x==c_name){	return unescape(y);	}	}	}	var cbads_value = getCookie("cbzads");	if(cbads_value != null && cbads_value.indexOf('IN|AS') 
+= 0){	document.write("<style
+.cb-geo-in-50{height:50px}</style
+")	}</script
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /
+<meta name="author" content=""
+<link rel="shortcut icon" type="image/x-icon" href="http://i.cricketcb.com/statics/site/images/cric_ball.ico" /
+<meta name="google-signin-client_id" content="125255339112-d594jen12o0j854sufu8jfn2gbbnaskj.apps.googleusercontent.com"
+<LINK REL="apple-touch-icon" href="http://i.cricketcb.com/statics/site/images/apple-touch-icon.png" /
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/cricbuzz/opljecakjchbhhikbeifamamnpcdbgem" /
+ <title itemprop="name"
+Live cricket scores, schedule, news, archive, series | Cricbuzz.com</title
+<meta name="description" itemprop="description" content="Get live cricket scores, ball by ball commentary, schedules of International, Domestic &amp;amp;amp; IPL cricket matches along with latest news and ICC cricket rankings on Cricbuzz."
+<link rel="alternate" href="android-app://com.cricbuzz.android/http/www.cricbuzz.com/"
+<meta name="robots" content="index, follow"
+<meta name="googlebot" content="index, follow"
+<meta name="google-site-verification" content="google89fd37b1258ef4b9.html"
+<meta name="p:domain_verify" content="fd560568b43f31382de30f628c8430bd"
+<meta name="msvalidate.01" content="A509FA8BAE50018F9DF2553AEDEDF77B"
+ <meta property="og:title" content="Live cricket scores, schedule, news, archive, series"
+<meta property="og:description" content="Get live cricket scores, ball by ball commentary, schedules of International, Domestic &amp;amp;amp; IPL cricket matches along with latest news and ICC cricket rankings on Cricbuzz."
+<meta property="fb:app_id" content="30119633160"
+<meta property="og:site_name" content="Cricbuzz"
+ <meta property="twitter:title" content="Live cricket scores, schedule, news, archive, series"
+<meta property="twitter:description" content="Get live cricket scores, ball by ball commentary, schedules of International, Domestic &amp;amp;amp; IPL cricket matches along with latest news and ICC cricket rankings on Cricbuzz."
+<meta name="twitter:site" content="@cricbuzz"
+<meta name="twitter:domain" content="cricbuzz.com"
+<meta name="twitter:app:name:iphone" content="Cricbuzz"
+<meta name="twitter:app:id:iphone" content="360466413"
+<meta name="twitter:app:name:googleplay" content="Cricbuzz"
+<meta name="twitter:app:id:googleplay" content="com.cricbuzz.android"
+<meta name="twitter:widgets:csp" content="on"
+<meta property="fb:pages" content="178697151159" /
+<meta name="keywords" content=""
+<meta name="news_keywords" content=""
+<link rel="canonical" href="http://www.cricbuzz.com"
+<meta name="msapplication-config" content="none"/
+<script
+var PAGE_NAME = "cb-homepage";	var CBQueue = CBQueue || [];	var CBQueueOnLoad = CBQueueOnLoad || [];	CBQueue.push(function(){roadblock(2,{country:["US","CA"]});});	_udn = "cricbuzz.com";</script
+<script
+(function(w){	"use strict";	var loadCSS = function( href, before, media ){	var doc = w.document;	var ss = doc.createElement( "link" );	var ref;	if( before ){	ref = before;	}	else {	var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;	ref = refs[ refs.length - 1];	}	var sheets = doc.styleSheets;	ss.rel = "stylesheet";	ss.href = href;	ss.media = "only x";	ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );	var onloadcssdefined = function( cb ){	var resolvedHref = ss.href;	var i = sheets.length;	while( i-- ){	if( sheets[ i ].href === resolvedHref ){	return cb();	}	}	setTimeout(function() {	onloadcssdefined( cb );	});	};	ss.onloadcssdefined = onloadcssdefined;	onloadcssdefined(function() {	ss.media = media || "all";	});	return ss;	};	if( typeof module !== "undefined" ){	module.exports = loadCSS;	}	else {	w.loadCSS = loadCSS;	}	}( typeof global !== "undefined" ? global : this ));	loadCSS( "http://s.cricketcb.com/site/style.201612131256.css" );</script
+<noscript
+<link rel="stylesheet" type="text/css" href="http://s.cricketcb.com/site/style.201612131256.css"
+</noscript
+</head
+<body
+<a href="https://plus.google.com/104502282508811467249" rel="publisher"
+</a
+<a target="_blank" href="Javascript:void(0)" class="cb-skin-ads-link cb-skin-ads-link-fixed ad-skin"
+</a
+<a href="Javascript:void(0)" class="cb-skin-ads-close cb-font-18 ad-skin-close" style="position:fixed; z-index:1001; color:#FFF; background:#000; padding:2px 5px; right:2px;"
+&#x2716;</a
+<header id="top" style="z-index: 1000;position: relative;padding-top:10px;width:980px;margin:0 auto;" itemscope itemtype="http://schema.org/WPHeader"
+<div class="container"
+<div id="leaderboard" class="ad-unit text-center center-block" style="min-height:90px;margin-bottom:10px;"
+</div
+<div id="countdown" class="ad-unit" style="margin:-10px 15px 0px;float:right;position:absolute;"
+</div
+<div class="toi-branding toi-referral"
+</div
+<nav class="cb-nav cb-col cb-col-100" id="cb-main-menu"
+<a href="/" target="_self" class="cb-hm-text"
+<img itemprop="image" height="30" width="101" style="bottom: -4px; position: relative;" alt="Cricbuzz Logo" title="Cricbuzz Logo" src="http://i.cricketcb.com/statics/site/images/cbz-logo.png"
+</a
+<a class="cb-hm-mnu-itm" target="_self" href="/cricket-match/live-scores" title="Live Cricket Score"
+Live Scores</a
+<a class="cb-hm-mnu-itm" target="_self" href="/cricket-schedule/series" title="Cricket Schedule"
+Schedule</a
+<a class="cb-hm-mnu-itm" target="_self" href="/cricket-scorecard-archives" title="Cricket Scorecard Archives"
+Archives</a
+<div class="cb-subnav cb-hm-mnu-itm feature-button cursor-pointer" id="newsDropDown"
+<a class="text-white" target="_self" href="/cricket-news" 
+News</a
+<span class ="cb-caret-down"
+</span
+<nav class="cb-sub-navigation"
+<a class="cb-subnav-item" target="_self" href="/cricket-news" title="Latest Cricket News"
+All Stories</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/latest-news" title="Latest Cricket News"
+Latest News</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/info/" title="Latest Cricket Topics"
+Topics</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/editorial/spotlight" title="Cricket Editorials and Specials"
+Spotlight</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/editorial/editorial-list" title="Latest Cricket Opinions & Editorials"
+Opinions</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/editorial/specials" title="Latest Cricket Specials"
+Specials</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/editorial/stats-analysis" title="Latest Cricket Stats & Analysis"
+Stats & Analysis</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/editorial/interviews" title="Latest Cricket Player Interviews"
+Interviews</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/editorial/live-blogs" title="Latest Cricket Match live blogs"
+Live Blogs</a
+<a class="cb-subnav-item" target="_self" href="/cricket-news/experts/harsha-bhogle/170" title="Articles and Videos by Harsha Bhogle"
+Harsha Bhogle</a
+</nav
+</div
+<div class="cb-subnav cb-hm-mnu-itm feature-button cursor-pointer" id="seriesDropDown"
+<a class="text-white" target="_self" href="/cricket-series" 
+Series</a
+<span class ="cb-caret-down"
+</span
+<nav class="cb-sub-navigation"
+<a class="cb-subnav-item" href="/cricket-series/2489/england-tour-of-india-2016-17" title="England tour of India, 2016-17"
+England tour of India, 2016-17</a
+<a class="cb-subnav-item" href="/cricket-series/2445/pakistan-tour-of-australia-2016-17" title="Pakistan tour of Australia, 2016-17"
+Pakistan tour of Australia, 2016-17</a
+<a class="cb-subnav-item" href="/cricket-series/2507/ranji-trophy-2016-17" title="Ranji Trophy, 2016-17"
+Ranji Trophy, 2016-17</a
+</nav
+</div
+<div class="cb-subnav cb-hm-mnu-itm feature-button cursor-pointer" id="teamDropDown"
+<a class="text-white" target="_self" href="/cricket-team" 
+Teams</a
+<span class ="cb-caret-down"
+</span
+<nav class="cb-sub-navigation"
+<a class="cb-subnav-item" href="/cricket-team/india/2" title="India Cricket Team"
+India</a
+<a class="cb-subnav-item" href="/cricket-team/pakistan/3" title="Pakistan Cricket Team"
+Pakistan</a
+<a class="cb-subnav-item" href="/cricket-team/australia/4" title="Australia Cricket Team"
+Australia</a
+<a class="cb-subnav-item" href="/cricket-team/sri-lanka/5" title="Sri Lanka Cricket Team"
+Sri Lanka</a
+<a class="cb-subnav-item" href="/cricket-team/bangladesh/6" title="Bangladesh Cricket Team"
+Bangladesh</a
+<a class="cb-subnav-item" href="/cricket-team/england/9" title="England Cricket Team"
+England</a
+<a class="cb-subnav-item" href="/cricket-team/west-indies/10" title="West Indies Cricket Team"
+West Indies</a
+<a class="cb-subnav-item" href="/cricket-team/south-africa/11" title="South Africa Cricket Team"
+South Africa</a
+<a class="cb-subnav-item" href="/cricket-team/zimbabwe/12" title="Zimbabwe Cricket Team"
+Zimbabwe</a
+<a class="cb-subnav-item" href="/cricket-team/new-zealand/13" title="New Zealand Cricket Team"
+New Zealand</a
+</nav
+</div
+<a class="cb-hm-mnu-itm" target="_self" href="/cricket-videos" title="Cricket Videos"
+Videos</a
+<a class="cb-hm-mnu-itm" target="_self" href="/cricket-photo-gallery" title="Photo Gallery"
+Photos</a
+<a class="cb-hm-mnu-itm" target="_self" href="/cricket-stats/icc-rankings" title="ICC Rankings"
+Rankings</a
+<div class="cb-subnav cb-hm-mnu-itm feature-button cursor-pointer"
+More<span class ="cb-caret-down"
+</span
+<nav class="cb-sub-navigation" style="right:0px;"
+<a class="cb-subnav-item" target="_self" href="/mobileapps" title="Mobile Apps"
+Mobile Apps</a
+<a class="cb-subnav-item" target="_self" href="/careers" title="Careers"
+Careers</a
+<a class="cb-subnav-item" target="_self" href="/info/contact" title="Contact Us"
+Contact Us</a
+</nav
+</div
+</nav
+</div
+</header
+<div class="page"
+<div id="fb-root"
+</div
+<div id="page-wrapper" class="container" style="display:inline-block;"
+<span id="skin_left" class="ad-unit" style="overflow:hidden; position:fixed;top:0;left:calc(50% - 635px);margin-right:3px;z-index:-99;" 
+</span
+ <div class="cb-col cb-col-100"
+<div id="match_menu_container" class="cb-col cb-col-100 html-refresh" url="/api/html/homepage-scag" timeout="45000"
+<div class="cb-nav-main cb-bg-white" ng-init="run_active = 'Featured'"
+<nav class="cb-nav-bar" id="scagTab"
+<a href="javascript:void(0)" ng-class="{true:'active',false:''}[run_active == 'Featured']" class="cb-nav-tab-hm active" id="featured-mtchs-tab" ng-click="run_active = 'Featured'"
+Featured</a
+<a href="javascript:void(0)" ng-class="{true:'active',false:''}[run_active == 'International']" class="cb-nav-tab-hm " id="international-mtchs-tab" ng-click="run_active = 'International'"
+International</a
+<a href="javascript:void(0)" ng-class="{true:'active',false:''}[run_active == 'Womens Big Bash League']" class="cb-nav-tab-hm " id="womens-big-bash-league-mtchs-tab" ng-click="run_active = 'Womens Big Bash League'"
+Womens Big Bash League</a
+<a href="javascript:void(0)" ng-class="{true:'active',false:''}[run_active == 'McDonalds Super Smash']" class="cb-nav-tab-hm " id="mcdonalds-super-smash-mtchs-tab" ng-click="run_active = 'McDonalds Super Smash'"
+McDonalds Super Smash</a
+<a href="javascript:void(0)" ng-class="{true:'active',false:''}[run_active == 'CSA T20 Challenge']" class="cb-nav-tab-hm " id="csa-t20-challenge-mtchs-tab" ng-click="run_active = 'CSA T20 Challenge'"
+CSA T20 Challenge</a
+<a class="cb-nav-tab-hm cb-text-link cb-all-mtch-tab" href="/cricket-match/live-scores" title="Live Scores of Cricket Matches" id="AllMatches"
+All Matches</a
+</nav
+</div
+<div class="cb-bg-white" style="min-height:90px;" id="hm-scag-mtch-blk"
+<div ng-if="run_active == 'Featured'" 
+<div class="cb-col-100 cb-col cb-hm-scg-blk "
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="India v England - 5th Test" href="/live-cricket-scores/16872/ind-vs-eng-5th-test-england-tour-of-india-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+ENG</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+284/4 (90.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+IND</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+</div
+</div
+<div class=" cb-ovr-flo cb-text-live"
+Day 1: Stumps</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Australia v Pakistan - 1st Test" href="/live-cricket-scores/16481/aus-vs-pak-1st-test-pakistan-tour-of-australia-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+PAK</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+97/8 (43.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+AUS</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+429</div
+</div
+<div class=" cb-ovr-flo cb-text-live"
+Day 2: Stumps - Pakistan trail by 332 runs</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="United Arab Emirates v Afghanistan - 2nd T20I" href="/live-cricket-scores/17686/uae-vs-afg-2nd-t20i-afghanistan-tour-of-united-arab-emirates-2016" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+AFG</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+183/5 (19.4 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+UAE</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+179/4 (20.0 Ovs)</div
+</div
+<div class=" cb-ovr-flo cb-text-complete"
+Afghanistan won by 5 wkts</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Sydney Thunder Women v Adelaide Strikers Women - 9th Match" href="/live-cricket-scores/16768/sytw-vs-adsw-9th-match-womens-big-bash-league-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+Sydney Thunder Women</div
+<div class="cb-hmscg-bwl-txt "
+Adelaide Strikers Women</div
+<div class=" cb-ovr-flo cb-text-complete"
+Match abandoned without a ball being bowled (No toss)</div
+</a
+</div
+</div
+</div
+<div ng-if="run_active == 'International'" 
+<div class="cb-col-100 cb-col cb-hm-scg-blk ng-cloak"
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="India v England - 5th Test" href="/live-cricket-scores/16872/ind-vs-eng-5th-test-england-tour-of-india-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+ENG</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+284/4 (90.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+IND</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+</div
+</div
+<div class=" cb-ovr-flo cb-text-live"
+Day 1: Stumps</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Australia v Pakistan - 1st Test" href="/live-cricket-scores/16481/aus-vs-pak-1st-test-pakistan-tour-of-australia-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+PAK</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+97/8 (43.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+AUS</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+429</div
+</div
+<div class=" cb-ovr-flo cb-text-live"
+Day 2: Stumps - Pakistan trail by 332 runs</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="United Arab Emirates v Afghanistan - 2nd T20I" href="/live-cricket-scores/17686/uae-vs-afg-2nd-t20i-afghanistan-tour-of-united-arab-emirates-2016" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+AFG</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+183/5 (19.4 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+UAE</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+179/4 (20.0 Ovs)</div
+</div
+<div class=" cb-ovr-flo cb-text-complete"
+Afghanistan won by 5 wkts</div
+</a
+</div
+</div
+</div
+<div ng-if="run_active == 'Womens Big Bash League'" 
+<div class="cb-col-100 cb-col cb-hm-scg-blk ng-cloak"
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Sydney Thunder Women v Adelaide Strikers Women - 9th Match" href="/live-cricket-scores/16768/sytw-vs-adsw-9th-match-womens-big-bash-league-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+Sydney Thunder Women</div
+<div class="cb-hmscg-bwl-txt "
+Adelaide Strikers Women</div
+<div class=" cb-ovr-flo cb-text-complete"
+Match abandoned without a ball being bowled (No toss)</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Perth Women v Brisbane Women - 13th Match" href="/live-cricket-scores/16772/prsw-vs-brhw-13th-match-womens-big-bash-league-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+Perth Women</div
+ <div class="cb-hmscg-bat-txt cb-ovr-flo "
+Brisbane Women</div
+<div class=" cb-ovr-flo cb-text-preview" ng-bind="1481940000000 |date: 'EEEE, d MMM, hh:mm a'"
+</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Sydney Sixers Women v Melbourne Stars Women - 11th Match" href="/live-cricket-scores/16770/sysw-vs-mlsw-11th-match-womens-big-bash-league-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+Sydney Sixers Women</div
+ <div class="cb-hmscg-bat-txt cb-ovr-flo "
+Melbourne Stars Women</div
+<div class=" cb-ovr-flo cb-text-preview" ng-bind="1481943600000 |date: 'EEEE, d MMM, hh:mm a'"
+</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Sydney Thunder Women v Adelaide Strikers Women - 12th Match" href="/live-cricket-scores/16771/sytw-vs-adsw-12th-match-womens-big-bash-league-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+Sydney Thunder Women</div
+ <div class="cb-hmscg-bat-txt cb-ovr-flo "
+Adelaide Strikers Women</div
+<div class=" cb-ovr-flo cb-text-preview" ng-bind="1481943600000 |date: 'EEEE, d MMM, hh:mm a'"
+</div
+</a
+</div
+</div
+</div
+<div ng-if="run_active == 'McDonalds Super Smash'" 
+<div class="cb-col-100 cb-col cb-hm-scg-blk ng-cloak"
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Central Districts v Otago - 9th Match" href="/live-cricket-scores/17317/cd-vs-otg-9th-match-mcdonalds-super-smash-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+OTG</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+161/9 (20.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+CD</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+166/5 (20.0 Ovs)</div
+</div
+<div class=" cb-ovr-flo cb-text-complete"
+Central Districts won by 5 runs</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Wellington v Canterbury - 8th Match" href="/live-cricket-scores/17316/wel-vs-can-8th-match-mcdonalds-super-smash-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+WEL</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+190/4 (20.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+CAN</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+199/4 (20.0 Ovs)</div
+</div
+<div class=" cb-ovr-flo cb-text-complete"
+Canterbury won by 9 runs</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Knights v Auckland - 10th Match" href="/live-cricket-scores/17318/nk-vs-akl-10th-match-mcdonalds-super-smash-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+Knights</div
+ <div class="cb-hmscg-bat-txt cb-ovr-flo "
+Auckland</div
+<div class=" cb-ovr-flo cb-text-preview" ng-bind="1481955000000 |date: 'EEEE, d MMM, hh:mm a'"
+</div
+</a
+</div
+</div
+</div
+<div ng-if="run_active == 'CSA T20 Challenge'" 
+<div class="cb-col-100 cb-col cb-hm-scg-blk ng-cloak"
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Titans v Warriors - Final" href="/live-cricket-scores/16606/tit-vs-war-final-csa-t20-challenge-2016" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+Titans</div
+ <div class="cb-hmscg-bat-txt cb-ovr-flo "
+Warriors</div
+<div class=" cb-ovr-flo cb-text-preview" ng-bind="1481904000000 |date: 'EEEE, d MMM, hh:mm a'"
+</div
+</a
+</div
+</div
+</div
+<div ng-if="run_active == 'Under 19 Asia Cup, 2016'" 
+<div class="cb-col-100 cb-col cb-hm-scg-blk ng-cloak"
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Afghanistan U19 v Pakistan U19 - Group B" href="/live-cricket-scores/17720/afgu19-vs-paku19-group-b-under-19-asia-cup-2016" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+PAKU..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+252-all out (49.1 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+AFGU..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+273/3 (50.0 Ovs)</div
+</div
+<div class=" cb-ovr-flo cb-text-complete"
+Afghanistan U19 won by 21 runs</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="India U19 v Nepal U19 - Group A" href="/live-cricket-scores/17717/indu19-vs-nplu19-group-a-under-19-asia-cup-2016" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+INDU..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+174/4 (33.3 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+NPLU..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+172/9 (50.0 Ovs)</div
+</div
+<div class=" cb-ovr-flo cb-text-complete"
+India U19 won by 6 wkts</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Sri Lanka U19 v Malaysia U19 - Group A" href="/live-cricket-scores/17718/slu19-vs-mlyu19-group-a-under-19-asia-cup-2016" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+SLU1..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+108/2 (18.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+MLYU..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+104 (38.2 Ovs)</div
+</div
+<div class=" cb-ovr-flo cb-text-complete"
+Sri Lanka U19 won by 8 wkts</div
+</a
+</div
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Bangladesh U19 v Singapore U19 - Group B" href="/live-cricket-scores/17719/bdeshu19-vs-sinu19-group-b-under-19-asia-cup-2016" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+BDES..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+71/3 (5.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+SINU..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+70 (25.5 Ovs)</div
+</div
+<div class=" cb-ovr-flo cb-text-complete"
+Bangladesh U19 won by 7 wkts</div
+</a
+</div
+</div
+</div
+<div ng-if="run_active == 'Ranji Trophy'" 
+<div class="cb-col-100 cb-col cb-hm-scg-blk ng-cloak"
+<div class="cb-col cb-col-25 cb-mtch-blk"
+<a title="Odisha v Jharkhand - Group B" href="/live-cricket-scores/17166/odisha-vs-jharkhand-group-b-ranji-trophy-2016-17" target="_self" class="cb-font-12"
+<div class="cb-hmscg-bat-txt cb-ovr-flo "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+JHAR..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+236/5 (94.0 Ovs)</div
+</div
+<div class="cb-hmscg-bwl-txt "
+<div class='cb-ovr-flo cb-hmscg-tm-nm'
+ODIS..</div
+<div class='cb-ovr-flo' style='display:inline-block; width:140px'
+152</div
+</div
+<div class=" cb-ovr-flo cb-text-live"
+Day 2: Stumps - Jharkhand lead by 84 runs</div
+</a
+</div
+</div
+</div
+</div
+</div
+<div id="menu_branding" class="ad-unit" style="float:right;"
+</div
+</div
+ <div id="shosh" class="ad-unit shosh-embed" style="height:0;"
+</div
+ <meta http-equiv="refresh" content="300"
+<div class="cb-col cb-col-20"
+ <div class="cb-bg-white" id="cb-news-blck"
+<h2 class="cb-hm-lft-hdr cb-lv-scr-mtch-hdr"
+LATEST NEWS</h2
+<div class='cb-hm-lft'
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84769/najibullah-zadran-blitz-helps-afghanistan-cricket-team-clinch-series-against-uae" title="Najibullah Zadran blitz helps Afghanistan clinch series"
+Najibullah Zadran blitz helps Afghanistan clinch series</a
+<div class="cb-nws-time"
+24m ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84768/india-vs-england-5th-test-day-1-chennai-i-feel-my-game-is-in-good-order-says-england-cricket-team-player-joe-root" title="I feel my game is in good order: Joe Root"
+I feel my game is in good order: Joe Root</a
+<div class="cb-nws-time"
+1h ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84765/ranji-trophy-2016-17-saurabh-tiwary-virat-singh-solidify-jharkhands-position" title="Saurabh Tiwary, Virat Singh solidify Jharkhand's position"
+Saurabh Tiwary, Virat Singh solidify Jharkhand's position</a
+<div class="cb-nws-time"
+2h ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84764/india-sri-lanka-seal-semifinal-spots-with-resounding-wins" title="India, Sri Lanka seal semifinal spots with resounding wins"
+India, Sri Lanka seal semifinal spots with resounding wins</a
+<div class="cb-nws-time"
+2h ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84763/india-vs-england-5th-cricket-test-day-1-chennai-statis-wrap-alastair-cook-fails-to-find-an-answer-to-the-ravindra-jadeja-puzzle" title="Cook fails to find an answer to the Jadeja puzzle"
+Cook fails to find an answer to the Jadeja puzzle</a
+<div class="cb-nws-time"
+2h ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84762/peter-handscomb-victoria-chris-rogers-maiden-test-century-australia-cricket-team-pakistan-cricket-team-gabba-test-day-night-test" title="'Handscomb one of the most impressive youngsters I've seen'"
+'Handscomb one of the most impressive youngsters I've seen'</a
+<div class="cb-nws-time"
+3h ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84761/australia-vs-pakistan-1st-test-day-2-brisbane-snapshots-pakistans-butter-fingers-and-birds-redeeming-act" title="Pakistan's butter fingers and Bird's redeeming act"
+Pakistan's butter fingers and Bird's redeeming act</a
+<div class="cb-nws-time"
+3h ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84760/india-v-england-2016-chennai-test-chepauk-stadium-moeen-ali-joe-root-jonathan-bairstow-ravindra-jadeja" title="Moeen Ali century hands England the advantage in Chennai"
+Moeen Ali century hands England the advantage in Chennai</a
+<div class="cb-nws-time"
+3h ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84759/australia-vs-pakistan-brisbane-hosts-call-the-shots-as-pakistan-capitulate" title="Australia call the shots as Pakistan capitulate"
+Australia call the shots as Pakistan capitulate</a
+<div class="cb-nws-time"
+4h ago</div
+</div
+<div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+<a class="cb-nws-hdln-ancr text-hvr-underline" href="/cricket-news/84758/sarah-taylor-included-in-central-contracts-by-england-and-wales-cricket-board" title="Sarah Taylor included in central contracts by ECB"
+Sarah Taylor included in central contracts by ECB</a
+<div class="cb-nws-time"
+4h ago</div
+</div
+<div class="cb-hm-mr-lnk"
+<a class="cb-font-12 cb-text-link" href="/cricket-news/latest-news" title="More News"
+<i
+More News..</i
+</a
+</div
+</div
+</div
+ <div class="cb-bg-white" id="hm-photos-blk"
+ <h2 class="cb-hm-lft-hdr cb-lv-scr-mtch-hdr"
+LATEST PHOTOS</h2
+ <div class='cb-hm-lft'
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <a href="/cricket-gallery/3171/india-vs-england-5th-test-day-1" title="India vs England, 5th Test, Day 1"
+ <img height="95" width="165" class="lazy-loading pad-0" alt="India vs England, 5th Test, Day 1" src="" source="http://i.cricketcb.com/i/gallery/fth/165x95/images/2016/dec/16/prv_ebade_1481887949.jpg"/
+ <div class="cb-nws-hdln"
+India vs England, 5th Test, Day 1</div
+ <span class="cb-nws-time"
+Fri, Dec 16 2016</span
+ </a
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <a href="/cricket-gallery/3170/australia-vs-pakistan-1st-test-day-2" title="Australia vs Pakistan, 1st Test, Day 2"
+ <img height="95" width="165" class="lazy-loading pad-0" alt="Australia vs Pakistan, 1st Test, Day 2" src="" source="http://i.cricketcb.com/i/gallery/fth/165x95/images/2016/dec/16/prv_90df8_1481868324.jpg"/
+ <div class="cb-nws-hdln"
+Australia vs Pakistan, 1st Test, Day 2</div
+ <span class="cb-nws-time"
+Fri, Dec 16 2016</span
+ </a
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <a href="/cricket-gallery/3169/australia-vs-pakistan-1st-test-day-1" title="Australia vs Pakistan, 1st Test, Day 1"
+ <img height="95" width="165" class="lazy-loading pad-0" alt="Australia vs Pakistan, 1st Test, Day 1" src="" source="http://i.cricketcb.com/i/gallery/fth/165x95/images/2016/dec/15/prv_a2e8f_1481795715.jpg"/
+ <div class="cb-nws-hdln"
+Australia vs Pakistan, 1st Test, Day 1</div
+ <span class="cb-nws-time"
+Thu, Dec 15 2016</span
+ </a
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <a href="/cricket-gallery/3168/india-vs-england-4th-test-day-5" title="India vs England, 4th Test, Day 5"
+ <img height="95" width="165" class="lazy-loading pad-0" alt="India vs England, 4th Test, Day 5" src="" source="http://i.cricketcb.com/i/gallery/fth/165x95/images/2016/dec/11/prv_2f5cd_1481521581.jpg"/
+ <div class="cb-nws-hdln"
+India vs England, 4th Test, Day 5</div
+ <span class="cb-nws-time"
+Mon, Dec 12 2016</span
+ </a
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <a href="/cricket-gallery/3167/india-vs-england-4th-test-day-4" title="India vs England, 4th Test, Day 4"
+ <img height="95" width="165" class="lazy-loading pad-0" alt="India vs England, 4th Test, Day 4" src="" source="http://i.cricketcb.com/i/gallery/fth/165x95/images/2016/dec/11/prv_9b80d_1481439333.jpg"/
+ <div class="cb-nws-hdln"
+India vs England, 4th Test, Day 4</div
+ <span class="cb-nws-time"
+Sun, Dec 11 2016</span
+ </a
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <a href="/cricket-gallery/3166/india-vs-england-4th-test-day-3" title="India vs England, 4th Test, Day 3"
+ <img height="95" width="165" class="lazy-loading pad-0" alt="India vs England, 4th Test, Day 3" src="" source="http://i.cricketcb.com/i/gallery/fth/165x95/images/2016/dec/10/prv_8539b_1481353708.jpg"/
+ <div class="cb-nws-hdln"
+India vs England, 4th Test, Day 3</div
+ <span class="cb-nws-time"
+Sat, Dec 10 2016</span
+ </a
+ </div
+ <div class=" cb-hm-mr-lnk"
+ <a class="cb-font-12 cb-text-link" href="/cricket-photo-gallery" title="More Photos"
+<i
+More Photos..</i
+</a
+ </div
+ </div
+ </div
+ <div class="cb-bg-white"
+ <h2 class="cb-hm-lft-hdr cb-lv-scr-mtch-hdr"
+UPCOMING MATCHES</h2
+ <div class='cb-hm-lft'
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <div
+India vs England, 5th Test</div
+ <div class="cb-nws-time"
+Fri Dec 16&nbsp;&#8226;&nbsp;04:00 AM&nbsp;GMT</div
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <div
+United Arab Emirates vs Afghanistan, 2nd T20I</div
+ <div class="cb-nws-time"
+Fri Dec 16&nbsp;&#8226;&nbsp;10:00 AM&nbsp;GMT</div
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <div
+United Arab Emirates vs Afghanistan, 3rd T20I</div
+ <div class="cb-nws-time"
+Sun Dec 18&nbsp;&#8226;&nbsp;09:00 AM&nbsp;GMT</div
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <div
+South Africa vs Sri Lanka, 1st Test</div
+ <div class="cb-nws-time"
+Mon Dec 26&nbsp;&#8226;&nbsp;08:00 AM&nbsp;GMT</div
+ </div
+ <div class="cb-col-100 cb-lst-itm cb-lst-itm-sm"
+ <div
+Australia vs Pakistan, 2nd Test</div
+ <div class="cb-nws-time"
+Sun Dec 25&nbsp;&#8226;&nbsp;11:30 PM&nbsp;GMT</div
+ </div
+ <div class="cb-hm-mr-lnk"
+ <a class="cb-font-12 cb-text-link" href="/cricket-schedule/series" title="Cricket Schedule"
+<i
+More Matches..</i
+</a
+ </div
+ </div
+ </div
+ </div
+<div class="cb-col cb-col-47"
+<div id="video_playlist"
+ <script
+ CBQueue.push(function(){ if((_GEO.country == "US" || _GEO.country == "CA") && true){ _ele('#video_playlist').html('<div class="cb-bg-white" style="margin:0 10px 10px 10px;"
+<div class="kaltura-playlist" uiconf_id="33885652" entry_id="0_lvphia47" uiautoplay="false" style="width:420px;height:385px;padding:10px;"
+</div
+</div
+'); }else if(["AE","SA","KW","BH","QA","OM","GB"].indexOf(_GEO.country) != -1){ var eplr = document.createElement('script'); eplr.type = 'text/javascript'; eplr.async = true; eplr.src = 'http://player.performgroup.com/eplayer.js#2864c8ea5ba889766deba2cb93.qjdsydmry69m1je82zk8il975.c'; var vpl = document.getElementById('video_playlist'); vpl.className = "cb-bg-white"; vpl.style.margin = "0px 10px 10px 10px"; vpl.appendChild(eplr); } }); </script
+</div
+<script
+CBQueue.push(function(){	if(_GEO.country == "US" || _GEO.country == "CA"){	_ele('#kaltura-video-player').removeClass('disp-none');	}	if(_GEO.country == "IN" ){	_ele('specials-home-module').removeClass('disp-none');	}
+});</script
+<div class="cb-col cb-hm-mid cb-bg-white cb-hmpage" style="clear:both"
+<div class='big-crd-main cb-bg-white'
+<div class="crd-cntxt"
+<span
+INDIA VS ENGLAND, 5TH TEST<span id="tnm_logo" class="ad-unit pull-right" style="top:-8px;z-index:0"
+</span
+</span
+</div
+<a href="/live-cricket-scores/16872/ind-vs-eng-5th-test-england-tour-of-india-2016-17" title="Moeen century drives England forward"
+<img	height="230"	width="410" alt="Moeen century drives England forward" title="Moeen century drives England forward" itemprop ="image" src="http://i.cricketcb.com/i/news/fth/410x230/images/homepage/qck_fceda_1481886097.jpg" /
+</a
+<h2 class="big-crd-hdln"
+<a href="/live-cricket-scores/16872/ind-vs-eng-5th-test-england-tour-of-india-2016-17" title="Moeen century drives England forward"
+Moeen century drives England forward</a
+</h2
+<div class="cb-nws-intr"
+The visitors overcame early wobble to attain a position of strength after Cook won another toss</div
+<a class="cb-font-12 cb-lv-scrs-well cb-lv-scrs-well-live" href="/live-cricket-scores/16872/ind-vs-eng-5th-test-england-tour-of-india-2016-17" title="India vs England, 5th Test Live cricket scores"
+ <div class="cb-lv-scrs-col cb-font-12 text-black"
+<span class='text-bold'
+ENG</span
+ 284-4</div
+ <div class="cb-lv-scrs-col cb-font-12 cb-text-live"
+Day 1: Stumps</div
+ </a
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84760/india-v-england-2016-chennai-test-chepauk-stadium-moeen-ali-joe-root-jonathan-bairstow-ravindra-jadeja" title="Indian bowlers made to toil on Day 1"
+Report /	Indian bowlers made to toil on Day 1</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84763/india-vs-england-5th-cricket-test-day-1-chennai-statis-wrap-alastair-cook-fails-to-find-an-answer-to-the-ravindra-jadeja-puzzle" title="Cook fails to find an answer to the Jadeja puzzle"
+Stats /	Cook fails to find an answer to the Jadeja puzzle</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84768/india-vs-england-5th-test-day-1-chennai-i-feel-my-game-is-in-good-order-says-england-cricket-team-player-joe-root" title="I feel my game is in good order: Joe Root"
+I feel my game is in good order: Joe Root</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-gallery/3171/india-vs-england-5th-test-day-1" title="Gallery"
+Gallery</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84749/live-cricket-score-of-india-vs-england-5th-test-day-1-at-chennai" title="As it happened"
+As it happened</a
+</div
+<div id="tnm" class="ad-unit center-block"
+</div
+</div
+<div class='big-crd-main cb-bg-white'
+<div class="crd-cntxt"
+<span
+AUSTRALIA VS PAKISTAN, 1ST TEST</span
+</div
+<a href="/live-cricket-scores/16481/aus-vs-pak-1st-test-pakistan-tour-of-australia-2016-17" title="Seamers leave Pakistan tottering"
+<img	height="230"	width="410"	class="lazy-loading" alt="Seamers leave Pakistan tottering" title="Seamers leave Pakistan tottering" itemprop ="image" source="http://i.cricketcb.com/i/news/fth/410x230/images/homepage/qck_c3f81_1481879086.jpg" src=""/
+</a
+<h2 class="big-crd-hdln"
+<a href="/live-cricket-scores/16481/aus-vs-pak-1st-test-pakistan-tour-of-australia-2016-17" title="Seamers leave Pakistan tottering"
+Seamers leave Pakistan tottering</a
+</h2
+<div class="cb-nws-intr"
+Visitors lose eight after Smith, Handscomb tons power Australia to 429</div
+<a class="cb-font-12 cb-lv-scrs-well cb-lv-scrs-well-live" href="/live-cricket-scores/16481/aus-vs-pak-1st-test-pakistan-tour-of-australia-2016-17" title="Australia vs Pakistan, 1st Test Live cricket scores"
+ <div class="cb-lv-scrs-col cb-font-12 text-black"
+<span class='text-bold'
+PAK</span
+ 97-8 <span class='cb-series-sch-dot'
+&nbsp;&#8226;&nbsp;</span
+ <span class='text-bold'
+AUS</span
+ 429</div
+ <div class="cb-lv-scrs-col cb-font-12 cb-text-live"
+Day 2: Stumps - Pakistan trail by 332 runs</div
+ </a
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84759/australia-vs-pakistan-brisbane-hosts-call-the-shots-as-pakistan-capitulate" title="Australia call the shots as Pakistan capitulate"
+Report /	Australia call the shots as Pakistan capitulate</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84762/peter-handscomb-victoria-chris-rogers-maiden-test-century-australia-cricket-team-pakistan-cricket-team-gabba-test-day-night-test" title="Handscomb one of the most impressive youngsters: Rogers"
+Handscomb one of the most impressive youngsters: Rogers</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84761/australia-vs-pakistan-1st-test-day-2-brisbane-snapshots-pakistans-butter-fingers-and-birds-redeeming-act" title="Pakistan's butter fingers and Bird's redeeming act"
+Snapshots /	Pakistan's butter fingers and Bird's redeeming act</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84748/live-cricket-score-of-australia-vs-pakistan-1st-test-day-2-at-brisbane" title="Day 2 - As it happened"
+Day 2 - As it happened</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-gallery/3170/australia-vs-pakistan-1st-test-day-2" title="Photo Gallery"
+Photo Gallery</a
+</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+BCCI V LODHA REFORMS</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84729/anurag-thakur-bcci-lodha-reforms-cji-thakur" title="Anurag Thakur pulled up by SC in alleged perjury charges"
+<img	height="75"	width="135"	class="lazy-loading" alt="Anurag Thakur pulled up by SC in alleged perjury charges" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_70a45_1481796697.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84729/anurag-thakur-bcci-lodha-reforms-cji-thakur" title="Anurag Thakur pulled up by SC in alleged perjury charges"
+Anurag Thakur pulled up by SC in alleged perjury charges</a
+</h3
+<div class="sml-crd-subtxt"
+1d ago</div
+</div
+<div class="cb-nws-intr"
+The BCCI president had reportedly demanded an intervention via a letter from the ICC in order to sidestep the implementation of the Lodha panel</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84746/bcci-not-to-submit-list-of-observers-as-asked-by-the-lodha-committee" title="BCCI not to submit list of observers"
+BCCI not to submit list of observers</a
+</div
+</div
+<div id="native_ads_web" class="ad-unit center-block"
+</div
+<div id="native_homepage_news" class="ad-native ng-cloak" ad-loaded="false" ad-content='<div class="sml-crd-main"
+<div class="cb-col-33 cb-col"
+<a rel="nofollow noreferrer" title="[[title]]" target="_blank" href="[[clk]]"
+<img style="padding:0px;width:140px;" alt="[[title]]" class="img-responsive ng-isolate-scope" src="[[img]]" image-loaded="true"
+</a
+</div
+<div class="cb-col-67 cb-col"
+<div class="sml-crd-hdln cb-font-18 line-ht24"
+<a title="[[title]]" class="text-black text-hvr-underline" target="_blank" href="[[clk]]"
+[[title]]</a
+</div
+<div class="ad-native-sponsor sml-crd-subtxt"
+[[sponsor]]<img src="[[logo]]" class="pull-right" style="height:14px;" /
+</div
+</div
+<div class="cb-nws-intr"
+[[text]]</div
+</div
+'
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+SRI LANKA TOUR OF SOUTH AFRICA, 2016-17</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84718/south-africa-cricket-team-gear-up-for-new-era-under-aggressive-faf-du-plessis" title="South Africa gear up for new era under 'aggressive' du Plessis"
+<img	height="75"	width="135"	class="lazy-loading" alt="South Africa gear up for new era under 'aggressive' du Plessis" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_31d52_1481739600.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84718/south-africa-cricket-team-gear-up-for-new-era-under-aggressive-faf-du-plessis" title="South Africa gear up for new era under 'aggressive' du Plessis"
+South Africa gear up for new era under 'aggressive' du Plessis</a
+</h3
+<div class="sml-crd-subtxt"
+1d ago</div
+</div
+<div class="cb-nws-intr"
+2017 could test South Africa never like before with tours to New Zealand and England followed by home series against Bangladesh, India and Australia</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84714/south-africa-cricket-team-batsman-theunis-de-bruyn-receives-maiden-test-call-up-for-sri-lanka-series" title="Theunis de Bruyn receives maiden Test call-up for Sri Lanka series"
+Theunis de Bruyn receives maiden Test call-up for Sri Lanka series</a
+</div
+</div
+<div class="cb-col cb-hm-exprt-wrap"
+<div class="cb-hm-exprt-hdr"
+<div class="cb-font-18 inline-block text-capital"
+Harsha Bhogle</div
+<a title="View all Articles and Videos of Harsha Bhogle" href="/cricket-news/experts/harsha-bhogle/170" class="inline-block pull-right text-white text-hvr-underline cb-ovr-num"
+View All</a
+</div
+<div class="sml-crd-main"
+<div class="cb-col-33 cb-col"
+<a href="/cricket-videos/487/review-england-have-run-into-kohli-and-ashwin-at-the-very-height-of-their-powers" title="England have run into Kohli and Ashwin at the very height of their powers"
+<img	height="75"	width="135"	class="lazy-loading" alt="England have run into Kohli and Ashwin at the very height of their powers" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/prv_e381a_1481632404.jpg" src="" style="padding:0px;"/
+<div class="cb-vid-hm-sm-brdr"
+<div class="cb-vid-hm-sm-ply"
+&#9658;</div
+</div
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-videos/487/review-england-have-run-into-kohli-and-ashwin-at-the-very-height-of-their-powers" title="England have run into Kohli and Ashwin at the very height of their powers"
+England have run into Kohli and Ashwin at the very height of their powers</a
+</h3
+<div class="sml-crd-subtxt"
+3d ago</div
+</div
+<div class="cb-nws-intr"
+With India wrapping up the series without much fuss, watch what Harsha Bhogle had to say about their outstanding victory in Mumbai</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+HARSHA SPEAKS</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84686/virat-kohli-and-ravichandran-ashwin-carrying-the-indian-cricket-legacy-forward" title="Kohli and Ashwin - carrying the Indian legacy forward"
+<img	height="75"	width="135"	class="lazy-loading" alt="Kohli and Ashwin - carrying the Indian legacy forward" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_4e236_1481543043.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84686/virat-kohli-and-ravichandran-ashwin-carrying-the-indian-cricket-legacy-forward" title="Kohli and Ashwin - carrying the Indian legacy forward"
+Kohli and Ashwin - carrying the Indian legacy forward</a
+</h3
+<div class="sml-crd-subtxt"
+4d ago</div
+</div
+<div class="cb-nws-intr"
+The flag bearers of the current generation have taken the rich tradition of Indian cricket to new levels</div
+</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+RANJI TROPHY 2016-17</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84733/ranji-trophy-2016-17-cricket-shahbaz-nadeems-four-fer-puts-jharkhand-in-command-against-odisha" title="Nadeem's four-fer puts Jharkhand in command"
+<img	height="75"	width="135"	class="lazy-loading" alt="Nadeem's four-fer puts Jharkhand in command" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_5de9e_1481802322.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84733/ranji-trophy-2016-17-cricket-shahbaz-nadeems-four-fer-puts-jharkhand-in-command-against-odisha" title="Nadeem's four-fer puts Jharkhand in command"
+Nadeem's four-fer puts Jharkhand in command</a
+</h3
+<div class="sml-crd-subtxt"
+1d ago</div
+</div
+<div class="cb-nws-intr"
+The 27-year-old left-arm spinner bagged a four-wicket haul to help Jharkhand snuff out Odisha for a modest score of 152</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+BANGLADESH TOUR OF NEW ZEALAND 2016-17</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84745/bangladesh-tour-of-new-zealand-2016-17-neil-broom-luke-ronchi-find-favour-for-bangladesh-odis" title="Broom, Ronchi find favour for Bangladesh ODIs"
+<img	height="75"	width="135"	class="lazy-loading" alt="Broom, Ronchi find favour for Bangladesh ODIs" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_acc77_1481851865.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84745/bangladesh-tour-of-new-zealand-2016-17-neil-broom-luke-ronchi-find-favour-for-bangladesh-odis" title="Broom, Ronchi find favour for Bangladesh ODIs"
+Broom, Ronchi find favour for Bangladesh ODIs</a
+</h3
+<div class="sml-crd-subtxt"
+13h ago</div
+</div
+<div class="cb-nws-intr"
+BJ Watling's poor form in the Chappell-Hadlee series, where he aggregated only 33 runs in the three matches, led to him being dropped</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+BBL 06</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84742/australias-big-bash-league-rules-out-new-zealand-expansion" title="Big Bash League rules out New Zealand expansion"
+<img	height="75"	width="135"	class="lazy-loading" alt="Big Bash League rules out New Zealand expansion" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_651e0_1481821626.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84742/australias-big-bash-league-rules-out-new-zealand-expansion" title="Big Bash League rules out New Zealand expansion"
+Big Bash League rules out New Zealand expansion</a
+</h3
+<div class="sml-crd-subtxt"
+13h ago</div
+</div
+<div class="cb-nws-intr"
+The idea to include a New Zealand-based team in the BBL gained traction during last season's hugely successful BBL season that saw record attendances and viewing figures</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84723/bbl-2016-17-cricket-john-hastings-ruled-out-of-big-bash-league-2016-17" title="John Hastings ruled out of Big Bash League 2016-17"
+John Hastings ruled out of Big Bash League 2016-17</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84752/big-bash-league-2016-17-melbourne-stars-coach-stephen-fleming-backs-maxwell-to-come-good-in-bbl" title="Fleming backs Maxwell to come good in BBL"
+Fleming backs Maxwell to come good in BBL</a
+</div
+</div
+<div class="cb-featre-cntr cb-bg-white"
+<div class="cb-col-100 cb-hm-ftr-hdr" 
+SPECIALS</div
+<div class="cb-col-46 cb-ftrd-itm" role="main"
+<a href="/cricket-news/84587/our-goal-is-to-ignite-a-passion-for-cricket-in-hong-kong-tim-cutler" title="Our goal is to ignite a passion for cricket in Hong Kong: Tim Cutler" class="text-black cb-hmpg-ftrd"
+<img height="105" width="188" gtm-label="Specials" class="lazy-loading cb-min-bat-rw" src="" source="http://i.cricketcb.com/i/news/fth/188x105/images/homepage/qck_b0c29_1481127731.jpg" title="Our goal is to ignite a passion for cricket in Hong Kong: Tim Cutler" alt="Our goal is to ignite a passion for cricket in Hong Kong: Tim Cutler"/
+</a
+<div class=""
+<h4 class="cb-nws-hdln"
+<a href="/cricket-news/84587/our-goal-is-to-ignite-a-passion-for-cricket-in-hong-kong-tim-cutler" gtm-label="Specials" title="Our goal is to ignite a passion for cricket in Hong Kong: Tim Cutler" class="text-black cb-hmpg-ftrd text-hvr-underline"
+ Our goal is to ignite a passion for cricket in Hong Kong: Tim Cutler</a
+</h4
+<div class="cb-nws-intr "
+One of our key strategic goals is to ignite a passion for cricket in Hong KongOne of our key strategic goals is to ignite a passion for cricket in Hong Kong</div
+</div
+</div
+<div class="cb-col-46 cb-ftrd-itm" role="main"
+<a href="/cricket-news/84662/ranji-trophy-2016-17-thankful-to-the-team-for-backing-me-says-tamil-nadu-batsman-kaushik-gandhi" title="Playing long innings comes naturally to me: Kaushik Gandhi" class="text-black cb-hmpg-ftrd"
+</a
+<div class="ftrd-item-num"
+<h4 class="cb-nws-hdln"
+<a href="/cricket-news/84662/ranji-trophy-2016-17-thankful-to-the-team-for-backing-me-says-tamil-nadu-batsman-kaushik-gandhi" gtm-label="Specials" title="Playing long innings comes naturally to me: Kaushik Gandhi" class="text-black cb-hmpg-ftrd text-hvr-underline"
+ Playing long innings comes naturally to me: Kaushik Gandhi</a
+</h4
+<div class="cb-nws-intr cb-lst-itr-txt"
+The 26-year-old has aggregated 709 runs at an average of 70.9 this season for Tamil Nadu in the Ranji Trophy</div
+</div
+</div
+<div class="cb-col-46 cb-ftrd-itm" role="main"
+<a href="/cricket-news/84589/manish-pandeys-time-to-be-the-hero-is-here-india-v-england-4th-test" title="Manish Pandey's time to 'be the hero' is here" class="text-black cb-hmpg-ftrd"
+</a
+<div class=""
+<h4 class="cb-nws-hdln"
+<a href="/cricket-news/84589/manish-pandeys-time-to-be-the-hero-is-here-india-v-england-4th-test" gtm-label="Specials" title="Manish Pandey's time to 'be the hero' is here" class="text-black cb-hmpg-ftrd text-hvr-underline"
+ Manish Pandey's time to 'be the hero' is here</a
+</h4
+<div class="cb-nws-intr cb-lst-itr-txt"
+The right-hander might still only warm the bench in the Tests against England, but the fact that the selectors have considered him is a shot in the arm for the promising tyro</div
+</div
+</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+FRESH PROPOSAL</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84754/international-cricket-council-icc-keen-to-have-15-16-teams-play-top-flight-cricket" title="ICC keen to have 15-16 teams play top-flight cricket"
+<img	height="75"	width="135"	class="lazy-loading" alt="ICC keen to have 15-16 teams play top-flight cricket" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_82631_1481872331.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84754/international-cricket-council-icc-keen-to-have-15-16-teams-play-top-flight-cricket" title="ICC keen to have 15-16 teams play top-flight cricket"
+ICC keen to have 15-16 teams play top-flight cricket</a
+</h3
+<div class="sml-crd-subtxt"
+7h ago</div
+</div
+<div class="cb-nws-intr"
+Global body's chief Dave Richardson revealed there were some strong proposals in the pipeline which could do wonders for international cricket</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+YOUTH ASIA CUP 2016</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84764/india-sri-lanka-seal-semifinal-spots-with-resounding-wins" title="India, Sri Lanka seal semifinal spots with resounding wins"
+<img	height="75"	width="135"	class="lazy-loading" alt="India, Sri Lanka seal semifinal spots with resounding wins" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_e4cae_1481891087.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84764/india-sri-lanka-seal-semifinal-spots-with-resounding-wins" title="India, Sri Lanka seal semifinal spots with resounding wins"
+India, Sri Lanka seal semifinal spots with resounding wins</a
+</h3
+<div class="sml-crd-subtxt"
+2h ago</div
+</div
+<div class="cb-nws-intr"
+Afghanistan caused an upset by defeating Pakistan by 21 runs in their Group B encounter</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84743/youth-asia-cup-2016-the-unscripted-tales-of-watching-your-loved-one-play" title="The unscripted tales of watching your loved one play"
+The unscripted tales of watching your loved one play</a
+</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84750/onus-on-young-virandeep-singh-to-foster-a-cricket-culture-in-malaysia" title="Onus on young Virandeep Singh to foster a cricket culture in Malaysia"
+Onus on young Virandeep Singh to foster a cricket culture in Malaysia</a
+</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+AFGHANISTAN IN UAE, 2016</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84769/najibullah-zadran-blitz-helps-afghanistan-cricket-team-clinch-series-against-uae" title="Najibullah Zadran blitz helps Afghanistan clinch series"
+<img	height="75"	width="135"	class="lazy-loading" alt="Najibullah Zadran blitz helps Afghanistan clinch series" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_05fcc_1481899593.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84769/najibullah-zadran-blitz-helps-afghanistan-cricket-team-clinch-series-against-uae" title="Najibullah Zadran blitz helps Afghanistan clinch series"
+Najibullah Zadran blitz helps Afghanistan clinch series</a
+</h3
+<div class="sml-crd-subtxt"
+11m ago</div
+</div
+<div class="cb-nws-intr"
+The 23-year-old left-hander struck an unbeaten half-century off just 23 balls in the 180-run chase</div
+</div
+<div class='big-crd-main cb-bg-white'
+<div class="crd-cntxt"
+<span
+WOMEN'S CRICKET</span
+</div
+<a href="/cricket-news/84758/sarah-taylor-included-in-central-contracts-by-england-and-wales-cricket-board" title="Sarah Taylor included in central contracts by ECB"
+<img	height="230"	width="410"	class="lazy-loading" alt="Sarah Taylor included in central contracts by ECB" title="Sarah Taylor included in central contracts by ECB" itemprop ="image" source="http://i.cricketcb.com/i/news/fth/410x230/images/homepage/qck_0ae22_1481884339.jpg" src=""/
+</a
+<h2 class="big-crd-hdln"
+<a href="/cricket-news/84758/sarah-taylor-included-in-central-contracts-by-england-and-wales-cricket-board" title="Sarah Taylor included in central contracts by ECB"
+Sarah Taylor included in central contracts by ECB</a
+</h2
+<div class="cb-nws-intr"
+The 27-year-old took an indefinite break from cricket to counter her anxiety issues but still isn't eyeing a return to the game even after her inclusion</div
+<div class="big-crd-reltd-itm"
+<a class="big-crd-rltd-txt" href="/cricket-news/84757/cricket-australia-not-barring-pregnant-cricketers-from-signing-contracts-insists-ceo-james-sutherland" title="'Australia not barring pregnant cricketers from signing contracts'"
+'Australia not barring pregnant cricketers from signing contracts'</a
+</div
+</div
+<div class="cb-featre-cntr cb-bg-white"
+<div class="cb-col-100 cb-hm-ftr-hdr" 
+SPECIALS</div
+<div class="cb-col-46 cb-ftrd-itm" role="main"
+<a href="/cricket-news/84509/cricket-in-usa-us-cricket-and-its-gordian-knot" title="US Cricket and its Gordian knot" class="text-black cb-hmpg-ftrd"
+<img height="105" width="188" gtm-label="Specials" class="lazy-loading cb-min-bat-rw" src="" source="http://i.cricketcb.com/i/news/fth/188x105/images/homepage/qck_e1406_1480755887.jpg" title="US Cricket and its Gordian knot" alt="US Cricket and its Gordian knot"/
+</a
+<div class=""
+<h4 class="cb-nws-hdln"
+<a href="/cricket-news/84509/cricket-in-usa-us-cricket-and-its-gordian-knot" gtm-label="Specials" title="US Cricket and its Gordian knot" class="text-black cb-hmpg-ftrd text-hvr-underline"
+ US Cricket and its Gordian knot</a
+</h4
+<div class="cb-nws-intr "
+The organisation that has been in charge of running US cricket since 1965 has systematically failed to tap into the country's very obvious potential</div
+</div
+</div
+<div class="cb-col-46 cb-ftrd-itm" role="main"
+<a href="/cricket-news/84305/ranji-trophy-cricket-2016-pankaj-singh-the-lion-hearted-trier" title="Pankaj Singh - the lion-hearted trier" class="text-black cb-hmpg-ftrd"
+</a
+<div class="ftrd-item-num"
+<h4 class="cb-nws-hdln"
+<a href="/cricket-news/84305/ranji-trophy-cricket-2016-pankaj-singh-the-lion-hearted-trier" gtm-label="Specials" title="Pankaj Singh - the lion-hearted trier" class="text-black cb-hmpg-ftrd text-hvr-underline"
+ Pankaj Singh - the lion-hearted trier</a
+</h4
+<div class="cb-nws-intr cb-lst-itr-txt"
+Despite a less than memorable Test debut, the Rajasthan pacer isn't giving up yet</div
+</div
+</div
+<div class="cb-col-46 cb-ftrd-itm" role="main"
+<a href="/cricket-news/84441/cricket-has-endured-after-the-death-of-australian-batsman-philip-hughes-albeit-with-lingering-grief" title="Cricket has endured, albeit with lingering grief" class="text-black cb-hmpg-ftrd"
+</a
+<div class=""
+<h4 class="cb-nws-hdln"
+<a href="/cricket-news/84441/cricket-has-endured-after-the-death-of-australian-batsman-philip-hughes-albeit-with-lingering-grief" gtm-label="Specials" title="Cricket has endured, albeit with lingering grief" class="text-black cb-hmpg-ftrd text-hvr-underline"
+ Cricket has endured, albeit with lingering grief</a
+</h4
+<div class="cb-nws-intr cb-lst-itr-txt"
+Phil Hughes's death evoked an overwhelming and genuine response throughout the country</div
+</div
+</div
+</div
+<div class="sml-crd-main"
+<div class="crd-cntxt"
+CARIBBEAN PREMIER LEAGUE 2017</div
+<div class="cb-col-33 cb-col"
+<a href="/cricket-news/84741/chris-gayle-joins-st-kitts-nevis-patriots-for-the-caribbean-premier-league-in-2017" title="Gayle joins St Kitts & Nevis Patriots for 2017 CPL"
+<img	height="75"	width="135"	class="lazy-loading" alt="Gayle joins St Kitts & Nevis Patriots for 2017 CPL" source="http://i.cricketcb.com/i/news/fth/135x75/images/homepage/qck_644e5_1481817359.jpg" src="" style="padding:0px;"/
+</a
+</div
+<div class="cb-col-67 cb-col cb-hdln-hght"
+<h3 class="sml-crd-hdln"
+<a href="/cricket-news/84741/chris-gayle-joins-st-kitts-nevis-patriots-for-the-caribbean-premier-league-in-2017" title="Gayle joins St Kitts & Nevis Patriots for 2017 CPL"
+Gayle joins St Kitts & Nevis Patriots for 2017 CPL</a
+</h3
+<div class="sml-crd-subtxt"
+1d ago</div
+</div
+<div class="cb-nws-intr"
+The 37-year-old left-hander played for Jamaica Tallawahs in the previous four editions of the tournament, leading them to the title win this year, and in the inaugural edition in 2013 too</div
+</div
+</div
+</div
+<div class="cb-col cb-col-33"
+ <div class="cb-col cb-col-100 cb-hm-rt-itm cb-bg-white"
+ <div id="mpu" class="ad-unit center-block " style="min-height: 250px;"
+</div
+ </div
+ <div id="strip_320x50" class="ad-unit"
+</div
+ <div class="cb-col cb-col-100 cb-hm-rt-itm cb-bg-white"
+ <div id="playerSearch" ng-controller="playerSearch" class="cb-related-module cb-col cb-col-100" ng-init="searchText=''" style='margin:10px 0 5px;'
+<h3 style='margin-bottom:5px'
+Player Search</h3
+<form name="form" method="POST" action="/profiles" novalidate onsubmit="return (document.getElementById('player_search_input').value.length 
+= 2)" ng-cloak
+<input class="form-control cb-plyr-inp" name="cbserarch" id="player_search_input" type="text" ng-model="searchText" placeholder="Search Player" pattern=".{2,}" ng-minlength="2" autocomplete="off"/
+<button class="cb-srch-btn text-white" type="submit" ng-click="form.$submitted = true"
+GO</button
+<div ng-show="form.$submitted || form.cbserarch.$touched"
+<div ng-show="form.cbserarch.$error.minlength || searchText.length < 2" class="text-red"
+Please enter atleast 2 characters.</div
+</div
+</form
+<a ng-href="/profiles/{{results.id}}/{{results.name | sanitize}}" ng-repeat="results in stats_data | searchFor: searchText" ng-if="stats_data.length 
+ 0" ng-show="searchText.length 
+=2"
+<div class="pad10 cb-plyr-srch-border cb-col-100 cb-col" style="width:75%" 
+<div class="cb-col-16 cb-col pad-0"
+<img class="img-responsive cb-srch-plyr-img" ng-cloak ng-attr-title="{{results.name}}" ng-attr-alt="{{results.name}}" ng-src="http://i.cricketcb.com/stats/img/faceImages/{{results.id}}.jpg" style='border-radius:50%;' /
+</div
+<div class="cb-col cb-col-84" ng-bind="results.name" style='padding:5px 0 0 5px;'
+</div
+</div
+</a
+</div
+ </div
+ <div class="cb-col cb-col-100 cb-hm-rt-itm cb-bg-white" id="latest-vid-mod" gtm-label='Homepage'
+<h4 class="cb-ltst-hdr"
+Latest Videos</h4
+<div class="cb-col cb-col-100 cb-rank-tbl"
+<a href="/cricket-videos/490/life-hacks-by-virender-sehwag-episode-4" title="Life hacks by Virender Sehwag: Episode 4" 
+<img class="cb-vid-img" alt="Life hacks by Virender Sehwag: Episode 4" title="Life hacks by Virender Sehwag: Episode 4" src="http://i.cricketcb.com/i/kurl/width/290/entry_id/0_l4cgr4x4" height="164" width="290"/
+<div class="cb-vid-sm-brdr"
+<div class="cb-vid-sm-ply"
+&#9658;</div
+</div
+<h4 class="text-hvr-underline"
+Life hacks by Virender Sehwag: Episode 4</h4
+</a
+<div class="cb-nws-time"
+7h ago</div
+</div
+<div class="cb-col cb-col-100 cb-tms-itm cb-rank-tbl"
+<a href="/cricket-videos/489/decoding-englands-failure-in-india" title="Decoding England&#39;s failure in India" 
+<img class="cb-vid-img" alt="Decoding England&#39;s failure in India" title="Decoding England&#39;s failure in India" src="http://i.cricketcb.com/i/kurl/width/290/entry_id/0_1kzcg29v" height="164" width="290"/
+<div class="cb-vid-sm-brdr"
+<div class="cb-vid-sm-ply"
+&#9658;</div
+</div
+<h4 class="text-hvr-underline"
+Decoding England's failure in India</h4
+</a
+<div class="cb-nws-time"
+1d ago</div
+</div
+<div class="cb-col cb-col-100 cb-tms-itm cb-rank-tbl"
+<a href="/cricket-videos/488/virat-kohli-fulfills-harsha-bhogles-wish-well-ahead-of-time" title="Virat Kohli fulfills Harsha Bhogle&#39;s wish well ahead of time" 
+<img class="cb-vid-img" alt="Virat Kohli fulfills Harsha Bhogle&#39;s wish well ahead of time" title="Virat Kohli fulfills Harsha Bhogle&#39;s wish well ahead of time" src="http://i.cricketcb.com/i/kurl/width/290/entry_id/0_a1owl8gb" height="164" width="290"/
+<div class="cb-vid-sm-brdr"
+<div class="cb-vid-sm-ply"
+&#9658;</div
+</div
+<h4 class="text-hvr-underline"
+Virat Kohli fulfills Harsha Bhogle's wish well ahead of time</h4
+</a
+<div class="cb-nws-time"
+2d ago</div
+</div
+<div class="cb-col cb-col-100 cb-more-btn-cntnr"
+<a title ="Click to view more videos" href="/cricket-videos" class="cb-more-btn" role="button"
+More Videos</a
+</div
+</div
+ <div class="cb-col cb-col-100 cb-hm-rt-itm cb-bg-white"
+ <div id="mpu2" class="ad-unit center-block"
+</div
+ </div
+ <div class="cb-col cb-col-100 cb-hm-rt-itm cb-bg-white"
+<h2 class="cb-ltst-hdr cb-font-16 line-ht24"
+SPOTLIGHT</h2
+<div class="cb-col cb-col-100 cb-rank-tbl"
+<a href="/cricket-news/84345/spotlight-kapil-dev-234-7-56-7" title="Kapil Dev - 23.4-7-56-7"
+<img class="cb-vid-img" alt="Kapil Dev - 23.4-7-56-7" src="http://i.cricketcb.com/i/news/fth/290x164/stories/2016/nov/26/prv_90624_1480191498.jpg" height="164" width="290"/
+<h4 class="text-hvr-underline"
+Kapil Dev - 23.4-7-56-7</h4
+</a
+<div class="cb-nws-intr"
+In late 1979 in Madras, Kapil Dev put on one of the finest all-round performances in the history of cricket</div
+</div
+<div class="cb-col cb-col-100 cb-more-btn-cntnr"
+<a title ="Click to view more articles" href="/cricket-news/editorial/spotlight" class="cb-more-btn" role="button"
+More Articles</a
+</div
+</div
+ <div class="cb-col cb-col-100 cb-hm-rt-itm cb-bg-white"
+ <div id="mpu3" class="ad-unit center-block"
+</div
+ </div
+ <div class="cb-col cb-col-100 cb-hm-rt-itm cb-bg-white"
+ <div class="cb-bg-white cb-col-100 cb-col"
+<h2 class='cb-ltst-hdr text-bold cb-lv-scr-mtch-hdr'
+POLL</h2
+<div ng-controller="pollController" style='margin-top:10px;' 
+<form class="form-horizontal" ng-submit="false"
+<div class="form-group"
+<span class="text-bold cb-font-16" ng-bind="poll.question"
+ </span
+</div
+<div class="form-group disp-none" ng-class = "pollId 
+= 0 ? 'disp-blck':''"
+<div class="radio" ng-repeat="option in poll.options"
+<div class="text-gray cb-col-100 cb-col"
+<div class="cb-col cb-col-100 cb-sub-opning"
+<input type="radio" id="option_{{option.id}}" name="option" ng-value="option.id" ng-model="poll.selected_option" ng-if="poll.voting_enabled && !poll.show_results" class='cb-col cb-poll-radio'
+<span ng-bind="option.text" class='cb-col cb-col-84'
+</span
+</div
+<div class="cb-col-100 cb-col"
+<div class="progress cb-poll-prgrs cb-col-84 cb-col" ng-if="poll.show_results || !poll.voting_enabled"
+<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="{{votes_percent}}" aria-valuemin="0" aria-valuemax="100" ng-style="{'width': option.votes_percent+'%'}"
+</div
+</div
+<div class="cb-col-16 cb-col cb-font-12 text-right" ng-if="poll.show_results || !poll.voting_enabled" ng-bind="option.votes_percent + '%'"
+</div
+</div
+</div
+</div
+</div
+<div class="cb-mtch-lst disp-none cb-col-100 cb-col" ng-class = "pollId 
+= 0 ? 'disp-blck':''"
+<span ng-if="poll.voting_enabled"
+<button type="submit" class="cb-more-btn cb-cht-lgn-cls" ng-click="cast_vote(poll)" ng-show="poll.show_results == false"
+Vote</button
+<button class="cb-more-btn" ng-click="poll.show_results = !poll.show_results" ng-bind="{true:'Back',false:'Result'}[poll.show_results]"
+Result</button
+</span
+<span class="cb-ttl-vts pull-right" ng-bind="'Total votes: ' + poll.votes" ng-if="poll.show_results || !poll.voting_enabled"
+Total votes : 0</span
+</div
+</form
+</div
+</div
+ </div
+</div
+<style
+.cb-lv-scrs-col{max-width:325px;}
+.cb-hmpage:first-child{border-top:0;}</style
+ <span id="skin_right" class="ad-unit" style="overflow:hidden;position:fixed;top:0;left:calc(50% + 490px);margin-left:3px;z-index:-99;"
+</span
+</div
+</div
+<footer id="FooterWraper" itemscope itemtype="http://schema.org/WPFooter" 
+<div class="cb-footer cb-col-100 cb-col"
+<div class='cb-ftr-cntnr'
+<div class="cb-col-25 cb-col"
+<a class="center-block" href="/"
+<div class="cb-ftr-logo cb-ico"
+</div
+</a
+</div
+<div class="cb-col-25 cb-col"
+<div class="text-left cb-font-16 text-bold"
+MOBILE SITE & APPS</div
+<ul class="cb-ftr-ul"
+<li class="cb-ftr-lst"
+<a href="http://m.cricbuzz.com" class="text-white"
+<span class="cb-mobile-site cb-ico"
+</span
+<span class="cb-footer-list-rt"
+m.cricbuzz.com</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="https://play.google.com/store/apps/details?id=com.cricbuzz.android" target="_blank"
+<span class="cb-app-android cb-ico"
+</span
+<span class="cb-footer-list-rt"
+Android</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="https://itunes.apple.com/app/id360466413" target="_blank"
+<span class="cb-app-ios cb-ico"
+</span
+<span class="cb-footer-list-rt"
+iOS</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="http://www.windowsphone.com/en-us/store/app/cricbuzz/d349db5c-d4e9-4498-ba6f-b9059e452965" target="_blank"
+<span class="cb-app-windows cb-ico"
+</span
+<span class="cb-footer-list-rt"
+Windows Mobile</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="http://appworld.blackberry.com/webstore/content/64558" target="_blank"
+<span class="cb-app-blackberry cb-ico"
+</span
+<span class="cb-footer-list-rt"
+Blackberry</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="https://chrome.google.com/webstore/detail/cricbuzz/opljecakjchbhhikbeifamamnpcdbgem" target="_blank"
+<span class="cb-app-chrome cb-ico"
+</span
+<span class="cb-footer-list-rt"
+Chrome Extension</span
+</a
+</li
+</ul
+</div
+<div class="cb-col-25 cb-col"
+<div class="text-left cb-font-16 text-bold"
+FOLLOW US ON</div
+<ul class="cb-ftr-ul"
+<li class="cb-ftr-lst"
+<a class="text-white" href="https://www.facebook.com/cricbuzz" target="_blank"
+<span class="cb-social-fb cb-ico"
+</span
+<span class="cb-footer-list-rt"
+facebook</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="https://twitter.com/cricbuzz" target="_blank"
+<span class="cb-social-twitter cb-ico"
+</span
+<span class="cb-footer-list-rt"
+twitter</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="https://www.youtube.com/channel/UCSRQXk5yErn4e14vN76upOw" target="_blank"
+<span class="cb-social-ytbe cb-ico"
+</span
+<span class="cb-footer-list-rt"
+youtube</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="https://plus.google.com/+cricbuzz/" target="_blank"
+<span class="cb-social-gplus cb-ico"
+</span
+<span class="cb-footer-list-rt"
+google+</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="https://in.pinterest.com/cricbuzz/" target="_blank"
+<span class="cb-social-pinterest cb-ico"
+</span
+<span class="cb-footer-list-rt"
+Pinterest</span
+</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="http://live-feeds.cricbuzz.com/CricbuzzFeed"
+<span class="cb-rss-feeds cb-ico"
+</span
+<span class="cb-footer-list-rt"
+RSS Feed</span
+</a
+</li
+</ul
+</div
+<div class="cb-col-25 cb-col"
+<div class="text-left cb-font-16 text-bold"
+COMPANY</div
+<ul class="cb-ftr-ul"
+<li class="cb-ftr-lst"
+<a class="text-white" href="/careers"
+Careers</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="/info/advertise"
+Advertise</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" rel="nofollow" href="/info/privacy"
+Privacy Policy</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" rel="nofollow" href="/info/termsofuse"
+Terms of Use</a
+</li
+<li class="cb-ftr-lst"
+<a class="text-white" href="/product-blog/cricbuzz-mobile-apps-tv-ad-cricket-ka-keeda"
+Cricbuzz TV Ads</a
+</li
+</ul
+</div
+<div class='cb-col-100 cb-col cb-ftr-cpyrght'
+&copy; 2016 Cricbuzz.com, Times Internet Limited. All rights reserved | <a class='cb-ftr-cpyrght text-hvr-underline' href="http://timesofindia.indiatimes.com/" target="_blank"
+The Times of India</a
+ | <a href="http://navbharattimes.indiatimes.com/" target="_blank" class='cb-ftr-cpyrght text-hvr-underline'
+Navbharat Times</a
+</div
+</div
+</div
+</footer
+<script type="text/javascript"
+var script_tag = document.getElementsByTagName('script')[0];	(function() {	var cmin = document.createElement('script'); cmin.type = 'text/javascript'; cmin.async = true;	cmin.src = 'http://i.cricketcb.com/statics/site/js/cricbuzz.min.201612131256.js';	script_tag.parentNode.insertBefore(cmin, script_tag);	})();</script
+<noscript
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-PGNCT7"	height="0" width="0" style="display:none;visibility:hidden"
+</iframe
+</noscript
+<script
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);	})(window,document,'script','dataLayer','GTM-PGNCT7');</script
+<script
+window.onerror = function(message, file, line) {	var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;	dataLayer.push({'EventAction': "Application",'EventLabel': sFormattedMessage,'event': 'Exceptions'});	}</script
+ </body
+</html
+
